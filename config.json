@@ -76,6 +76,9 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    }
+    }                                                                                                                                                                                                     
+   "ikun": {
+      "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+      "name": "红牛资源"   
   }
 }
